@@ -1,0 +1,9 @@
+Package: com.mr00k3.modern6
+Name: Modern 6
+Version: 1.2
+Architecture: iphoneos-arm64
+Description: Modern 6 SnowBoard Theme for Dopamine (or else rootless jailbreaks).
+Maintainer: mr00k3 <mr00k3ziks@protonmail.com>
+Author: mr00k3 <mr00k3ziks@protonmail.com>
+Icon: file:///DEBIAN/icon.png
+Section: Themes
